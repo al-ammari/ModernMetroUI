@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbc0200101Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="HosDeparts">
+    <Key>
+      <PropertyRef Name="DepartId" />
+    </Key>
+    <Property Name="DepartId" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DepartNameA" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DepartNameE" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="DepartNo" Type="Byte" Nullable="false" />
+    <Property Name="DepartLocationTypeId" Type="Byte" />
+    <Property Name="Addrees" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Phones" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Discription" Type="String" MaxLength="400" FixedLength="false" Unicode="false" />
+    <Property Name="EmpId" Type="Int32" />
+    <Property Name="Notes" Type="String" MaxLength="400" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="dbc0200101Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="HosDeparts" EntityType="Self.HosDeparts" />
+  </EntityContainer>
+</Schema>

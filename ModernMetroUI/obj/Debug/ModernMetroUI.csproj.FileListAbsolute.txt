@@ -1,0 +1,56 @@
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\bin\Debug\ModernMetroUI.exe.config
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\bin\Debug\ModernMetroUI.exe
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\bin\Debug\ModernMetroUI.pdb
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\bin\Debug\MetroFramework.Design.dll
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\bin\Debug\MetroFramework.dll
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\bin\Debug\MetroFramework.Fonts.dll
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.csprojResolveAssemblyReference.cache
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.Properties.Resources.resources
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.csproj.GenerateResource.Cache
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.exe
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.pdb
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.frmMain.resources
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.ucDashBoard.resources
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.usCategires.resources
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.usProducts.resources
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\bin\Debug\EntityFramework.dll
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\bin\Debug\EntityFramework.xml
+c:\users\mansour\documents\visual studio 2013\Projects\ModernMetroUI\ModernMetroUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mansour\Documents\Visual Studio 2013\Projects\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.usLogin.resources
+C:\Users\Mansour\Documents\Visual Studio 2013\Projects\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.usArchive.resources
+C:\Users\Mansour\Documents\Visual Studio 2013\Projects\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.frmRemmber.resources
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\ModernMetroUI.exe.config
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\ModernMetroUI.exe
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\ModernMetroUI.pdb
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\EntityFramework.dll
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\MetroFramework.Design.dll
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\MetroFramework.dll
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\MetroFramework.Fonts.dll
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\XLDbLayer.dll
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\WizardBase.dll
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\FileBrowser.dll
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\AForge.Video.DirectShow.dll
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\office.dll
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\AForge.Imaging.dll
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\AForge.dll
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\EntityFramework.xml
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Freelancer\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.frmMain.resources
+D:\Freelancer\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.frmRemmber.resources
+D:\Freelancer\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.Properties.Resources.resources
+D:\Freelancer\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.ucAccountUser.resources
+D:\Freelancer\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.ucDashBoard.resources
+D:\Freelancer\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.ucDocType.resources
+D:\Freelancer\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.uctypeList.resources
+D:\Freelancer\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.usArchive.resources
+D:\Freelancer\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.usLogin.resources
+D:\Freelancer\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.usProducts.resources
+D:\Freelancer\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.csproj.GenerateResource.Cache
+D:\Freelancer\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.exe
+D:\Freelancer\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.pdb
+D:\Freelancer\ModernMetroUI\ModernMetroUI\bin\Debug\AForge.Video.dll
+D:\Freelancer\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.frmDocViewer.resources
+D:\Freelancer\ModernMetroUI\ModernMetroUI\obj\Debug\ModernMetroUI.csprojResolveAssemblyReference.cache

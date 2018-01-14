@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="dbc0200101Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="HosDeparts">
+          <Key>
+            <PropertyRef Name="DepartId" />
+          </Key>
+          <Property Name="DepartId" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="DepartNameA" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="DepartNameE" Type="varchar" MaxLength="100" />
+          <Property Name="DepartNo" Type="tinyint" Nullable="false" />
+          <Property Name="DepartLocationTypeId" Type="tinyint" />
+          <Property Name="Addrees" Type="varchar" MaxLength="100" />
+          <Property Name="Phones" Type="varchar" MaxLength="100" />
+          <Property Name="Discription" Type="varchar" MaxLength="400" />
+          <Property Name="EmpId" Type="int" />
+          <Property Name="Notes" Type="varchar" MaxLength="400" />
+        </EntityType>
+        <EntityContainer Name="dbc0200101ModelStoreContainer">
+          <EntitySet Name="HosDeparts" EntityType="Self.HosDeparts" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="dbc0200101Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="HosDeparts">
+          <Key>
+            <PropertyRef Name="DepartId" />
+          </Key>
+          <Property Name="DepartId" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="DepartNameA" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="DepartNameE" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="DepartNo" Type="Byte" Nullable="false" />
+          <Property Name="DepartLocationTypeId" Type="Byte" />
+          <Property Name="Addrees" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Phones" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Discription" Type="String" MaxLength="400" FixedLength="false" Unicode="false" />
+          <Property Name="EmpId" Type="Int32" />
+          <Property Name="Notes" Type="String" MaxLength="400" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityContainer Name="dbc0200101Entities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="HosDeparts" EntityType="Self.HosDeparts" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="dbc0200101ModelStoreContainer" CdmEntityContainer="dbc0200101Entities">
+          <EntitySetMapping Name="HosDeparts">
+            <EntityTypeMapping TypeName="dbc0200101Model.HosDeparts">
+              <MappingFragment StoreEntitySet="HosDeparts">
+                <ScalarProperty Name="DepartId" ColumnName="DepartId" />
+                <ScalarProperty Name="DepartNameA" ColumnName="DepartNameA" />
+                <ScalarProperty Name="DepartNameE" ColumnName="DepartNameE" />
+                <ScalarProperty Name="DepartNo" ColumnName="DepartNo" />
+                <ScalarProperty Name="DepartLocationTypeId" ColumnName="DepartLocationTypeId" />
+                <ScalarProperty Name="Addrees" ColumnName="Addrees" />
+                <ScalarProperty Name="Phones" ColumnName="Phones" />
+                <ScalarProperty Name="Discription" ColumnName="Discription" />
+                <ScalarProperty Name="EmpId" ColumnName="EmpId" />
+                <ScalarProperty Name="Notes" ColumnName="Notes" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

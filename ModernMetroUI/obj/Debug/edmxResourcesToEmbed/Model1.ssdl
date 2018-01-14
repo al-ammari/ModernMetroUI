@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbc0200101Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="HosDeparts">
+    <Key>
+      <PropertyRef Name="DepartId" />
+    </Key>
+    <Property Name="DepartId" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DepartNameA" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="DepartNameE" Type="varchar" MaxLength="100" />
+    <Property Name="DepartNo" Type="tinyint" Nullable="false" />
+    <Property Name="DepartLocationTypeId" Type="tinyint" />
+    <Property Name="Addrees" Type="varchar" MaxLength="100" />
+    <Property Name="Phones" Type="varchar" MaxLength="100" />
+    <Property Name="Discription" Type="varchar" MaxLength="400" />
+    <Property Name="EmpId" Type="int" />
+    <Property Name="Notes" Type="varchar" MaxLength="400" />
+  </EntityType>
+  <EntityContainer Name="dbc0200101ModelStoreContainer">
+    <EntitySet Name="HosDeparts" EntityType="Self.HosDeparts" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
